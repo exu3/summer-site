@@ -61,7 +61,7 @@ export default () => (
             loading="lazy"
             width="100%"
             alt="A digitally drawn character with a bright background and wearing a dress. Modern style."
-            src="https://dl.airtable.com/.attachmentThumbnails/e4ed4d3cb696687f506d60aed5fa0988/36a8507d"
+            src="https://cloud-c33ppiiya-hack-club-bot.vercel.app/136a8507d"
           />
           <Text sx={{ color: 'black!important', mt: 1, mb: 1 }}>
             <Mention sx={{ color: 'black' }} username="e-lee-za" />
@@ -72,7 +72,7 @@ export default () => (
             loading="lazy"
             alt="A drawing of a person at a Ski resort, very modern. Person is wearing a jacket with a hood and has a few scratches."
             width="100%"
-            src="https://dl.airtable.com/.attachmentThumbnails/8d0e717964dd2ac4de571cb8aa20d6bc/c4a2189f"
+            src="https://cloud-c33ppiiya-hack-club-bot.vercel.app/0c4a2189f"
           />
           <Text sx={{ color: 'black!important', mt: 1, mb: 1 }}>
             <Mention sx={{ color: 'black' }} username="malte" key="maltei" />
